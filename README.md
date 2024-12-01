@@ -61,7 +61,7 @@
 1. **Data Gathering & Pre-processing:** Retrieve data from BigKinds.
 2. **Frequency Analysis:** Perform TF-IDF-based weighted frequency analysis.
 3. **Sentiment Analysis:** Conduct lexicon-based sentiment analysis.
-4. **Topic Modeling:** TImplement topic modeling using STM (Structural Topic Model).
+4. **Topic Modeling:** Implement topic modeling using STM (Structural Topic Model).
 5. **Data Visualization:** Present the results of STM.
 
 
