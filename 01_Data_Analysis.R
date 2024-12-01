@@ -1,7 +1,7 @@
 #######################################################################
 ### Text Mining Team Project                                        ###
-### Project Title:  Everything of Handong, from 1995 to 2024        ###
-### Project Goal: Analysis of Handong News                          ###
+### Project Title: Everything of Handong, from 1995 to 2024         ###
+### Project Goal:  Analysis of Handong News                         ###
 ### Project Members: Choe Jaeseong  (https://github.com/sorrychoe)  ###
 ###                  YUGAY DMITRIY  (https://github.com/yudm3)      ###
 ###                  Cheon Jeongwon (https://github.com/garden1000) ###
