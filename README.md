@@ -246,16 +246,16 @@ Based on the above, the topics were named as follows:
 
 ---
 
-## Repository 
-● Data URL: https://www.bigkinds.or.kr/v2/news/index.do
-● data: NewsResult_19900101-20241031.xlsx
-● img
-● result
-● 01_Data_Analysis.R
-● 02_Topic_Modeling.R
-● 03_Visualization.R
-● TextMining_FinalPPT_Team3.pdf
-● TextMining_Proposal_Team3.pdf
+- **Repository**
+    - Data URL: https://www.bigkinds.or.kr/v2/news/index.do
+    - data: NewsResult_19900101-20241031.xlsx
+    - img
+    - result
+    - 01_Data_Analysis.R
+    - 02_Topic_Modeling.R
+    - 03_Visualization.R
+    - TextMining_FinalPPT_Team3.pdf
+    - TextMining_Proposal_Team3.pdf
 
 
 
